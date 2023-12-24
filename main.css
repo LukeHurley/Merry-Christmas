@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+    background: linear-gradient(#116C31, #2e6e14, #116C31);
+    overflow-y: hidden; /* Hide vertical scrollbar */
+    overflow-x: hidden; /* Hide horizontal scrollbar */
+
+
+}
+
+img {
+  box-shadow: 0 0 20px 0 #3B7E20CC;
+  max-width: 712.5px;
+  max-height: 950px;
+}
+
